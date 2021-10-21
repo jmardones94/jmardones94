@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Linkedin: jmardones94](https://img.shields.io/badge/-jmardones94-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmardones94/)](https://www.linkedin.com/in/jmardones94/)
 [![Twitter: jmardones94](https://img.shields.io/twitter/follow/jmardones94?style=social)](https://twitter.com/jmardones94)
+[![GitHub jmardones94](https://img.shields.io/github/followers/jmardones94?label=follow&style=social)](https://github.com/jmardones94)
+
 <!--
 **jmardones94/jmardones94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
