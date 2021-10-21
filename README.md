@@ -3,7 +3,9 @@
 [![Twitter: jmardones94](https://img.shields.io/twitter/follow/jmardones94?style=social)](https://twitter.com/jmardones94)
 [![GitHub jmardones94](https://img.shields.io/github/followers/jmardones94?label=follow&style=social)](https://github.com/jmardones94)
 
+<br>
 I'm a Full Stack MERN & Mobile Developer. 
+<br><br>
 
 #### My favorites programming languages are: 
 <div>
@@ -35,5 +37,8 @@ I'm a Full Stack MERN & Mobile Developer.
   <img align="center" alt="Deno icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
   <img align="center" alt="Django icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
 </div>
+<br><br><br>
+
+
 
 I'm open to work as a fullstack developer, or collaborate on any open source project!
