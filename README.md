@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin: jmardones94](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmardones94/)]
+[![Linkedin: jmardones94](https://img.shields.io/badge/-jmardones94-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmardones94/)]
 <!--
 **jmardones94/jmardones94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
