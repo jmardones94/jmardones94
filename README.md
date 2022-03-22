@@ -37,6 +37,3 @@ I'm a Full Stack MERN & Mobile Developer.
 </div>
 <br><br><br>
 
-
-
-I'm open to work as a fullstack developer, or collaborate on any open source project!
